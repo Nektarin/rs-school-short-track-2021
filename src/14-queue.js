@@ -10,7 +10,6 @@
  * queue.dequeue(); // returns the top element from queue and deletes it, returns 1
  *
  */
-
 class Queue {
   get size() {
     throw new Error('Not implemented');
